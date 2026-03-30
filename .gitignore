@@ -1,18 +1,13 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Windows system files
+Thumbs.db
+Desktop.ini
+ehthumbs.db
 
-# Other files and folders
-.settings/
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# IDE / Editor folders (in case you use one)
+.vscode/
+*.code-workspace
